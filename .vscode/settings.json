@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "Functions",
+        "03-conditionals-loops",
         "02-first-java.md",
-        "03-conditionals-loops"
+        "Arrayss"
     ]
 }
